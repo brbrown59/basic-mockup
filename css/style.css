@@ -38,3 +38,19 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+h1{
+	background-color: aqua;
+	padding: 10px;
+}
+
+.instructions{
+	border: 5px solid #d3d3d3;
+	padding: 20px;
+	margin: 20px;
+}
+
+.pull-left{
+	border: 5px solid #d3d3d3;
+	float: left;
+}
