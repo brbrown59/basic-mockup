@@ -41,12 +41,13 @@ body { width: 100%;}
 
 header{
 	background-color: #5f9ea0;
-	padding: 10px;
+	margin: 10px;
+	padding: 1px;
 }
 
 .instructions{
 	border: 5px solid #d3d3d3;
-	padding: 20px;
+	padding: 10px 20px 20px 20px;
 	margin: 30px;
 }
 
@@ -64,11 +65,14 @@ header{
 
 .clear{
 	background-color: #5f9ea0;
-	padding: 20px;
+	padding: 20px 20px 10px 20px;
 }
 
 footer{
 	background-color: #000000;
 	font-style: italic;
-	color: #d3d3d3;
+	color: #a9a9a9;
+	font-size: 0.75em;
+	margin: 10px;
+	padding: 20px;
 }
