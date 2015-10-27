@@ -39,18 +39,36 @@ body { width: 100%;}
 	flex: 1 0 auto;
 }
 
-h1{
-	background-color: aqua;
+header{
+	background-color: #5f9ea0;
 	padding: 10px;
 }
 
 .instructions{
 	border: 5px solid #d3d3d3;
 	padding: 20px;
-	margin: 20px;
+	margin: 30px;
 }
 
 .pull-left{
 	border: 5px solid #d3d3d3;
 	float: left;
+	margin: 20px;
+}
+
+.pull-right{
+	border: 5px solid #d3d3d3;
+	float: right;
+	margin: 10px;
+}
+
+.clear{
+	background-color: #5f9ea0;
+	padding: 20px;
+}
+
+footer{
+	background-color: #000000;
+	font-style: italic;
+	color: #d3d3d3;
 }
